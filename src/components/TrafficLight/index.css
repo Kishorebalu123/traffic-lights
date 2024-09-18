@@ -1,0 +1,14 @@
+.traffic-light {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.timer {
+  margin-top: 20px;
+  font-size: 1em;
+  color: #ffff;
+  display: flex;
+  justify-content: center;
+}

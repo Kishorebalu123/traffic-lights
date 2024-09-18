@@ -1,0 +1,7 @@
+.red {
+  background-color: gray;
+}
+
+.red.on {
+  background-color: red;
+}
